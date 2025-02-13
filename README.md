@@ -1,8 +1,16 @@
-👋 Hi, I'm Miguel Rodriguez
+<h1 align="center">
+  Hi, I’m Miguel
+  <img
+    width="20px"
+    alt="Waving Emoji"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  />
+</h1>
 
-I'm a Computer Science student at the University of Houston with a passion for machine learning, full-stack development, and medical imaging applications. I'm always eager to collaborate on innovative projects and contribute to open-source communities.
+<h3 align="center">
+  I'm a Computer Science student at the University of Houston with a passion for machine learning, full-stack development, and medical imaging applications. I'm always eager to collaborate on innovative projects and contribute to open-source communities.
+</h3>
 
-💪 Skill Set
 
 🖥️ Programming Languages
 ---------------------------
@@ -36,22 +44,21 @@ I'm a Computer Science student at the University of Houston with a passion for m
 
 
 
-🚀 Some of my stats 📊
-
-
-
-
-
 📫 Let's Connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/miguel-rodriguez302002)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrodriguez302002@gmail.com)
-
-<p align="left">
-  <a href="http://www.linkedin.com/in/miguel-rodriguez302002">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="mailto:mrodriguez302002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email me"/>
   </a>
-</p>
+  <a href="http://www.linkedin.com/in/miguel-rodriguez302002">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn profile"/>
+  </a>
+</div>
 
-🎯 "Let's build something amazing together!" 🚀
+
+
+<h3 align="center">
+  🎯 "Let's build something amazing together!" 🚀
+</h3>
+
 
